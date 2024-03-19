@@ -26,5 +26,5 @@ def read_from_file_using_pandas(path: str):
             Returns:
                 data stored in csv file as string
         """
-    return pd.read_csv(path)
+    return pd.read_csv
 
